@@ -1,2 +1,3 @@
 print('Я домашка')
-print('Lolo')
+
+print('Hello')
